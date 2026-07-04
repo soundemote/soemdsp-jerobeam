@@ -19,9 +19,13 @@ modules. Drop them into any web audio/visual project — each one exports
 a simple `create -> sample -> x/y -> destroy` interface, no runtime
 dependencies, no libm.
 
+Includes a one-click player — open `player.html`, no install, no
+server, and you can hear every module immediately.
+
 ## What's included
 
 - 8 `.wasm` binaries (one per module)
+- `player.html` — self-contained, double-click-to-hear demo of every module
 - `manifest.json` describing every export and a SHA-256 checksum per module
 - License (commercial use permitted — embed in your own products; no
   reselling as a standalone module pack)

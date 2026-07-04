@@ -8,7 +8,7 @@ Jerobeam Fenderson WASM Modules — 8 Native Oscillator Ports
 
 ## Price
 
-$10
+Pay-what-you-want, $0 minimum ($10 suggested price shown as the default slider position). Switched from a flat $10 per market research (see docs/DISTRIBUTION_RESEARCH.md) -- the goal here is attention and usage over profit, and PWYW removes the one real friction point without any evidence it hurts reach.
 
 ## Short description
 

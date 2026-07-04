@@ -8,7 +8,8 @@
       "cpp": "jerobeam_wirdo_spiral.cpp",
       "wasm": "jerobeam_wirdo_spiral.wasm",
       "outputs": ["x", "y"],
-      "description": "Spiral shaped by a splash/cut/scrap layer -- a warped, textured take on the Spiral engine."
+      "description": "Spiral shaped by a splash/cut/scrap layer -- a warped, textured take on the Spiral engine.",
+      "demoArgs": [220, 0, 0, 0.8, 1, 0, 0, 0, 1000, 1, 10, 0, 1]
     },
     {
       "id": "jerobeam_blubb",
@@ -18,7 +19,8 @@
       "cpp": "jerobeam_blubb.cpp",
       "wasm": "jerobeam_blubb.wasm",
       "outputs": ["x", "y"],
-      "description": "A soft, rounded blob shape rotated through X/Y with a zDepth squish."
+      "description": "A soft, rounded blob shape rotated through X/Y with a zDepth squish.",
+      "demoArgs": [220, 0, 0, 0, 0]
     },
     {
       "id": "jerobeam_boing",
@@ -28,7 +30,8 @@
       "cpp": "jerobeam_boing.cpp",
       "wasm": "jerobeam_boing.wasm",
       "outputs": ["x", "y"],
-      "description": "A bouncing, elastic sphere-like shape with a boing/rebound stage."
+      "description": "A bouncing, elastic sphere-like shape with a boing/rebound stage.",
+      "demoArgs": [220, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
     },
     {
       "id": "jerobeam_kepler_bouwkamp",
@@ -38,7 +41,8 @@
       "cpp": "jerobeam_kepler_bouwkamp.cpp",
       "wasm": "jerobeam_kepler_bouwkamp.wasm",
       "outputs": ["x", "y"],
-      "description": "Nested regular polygons spiraling inward, based on the Kepler-Bouwkamp constant construction."
+      "description": "Nested regular polygons spiraling inward, based on the Kepler-Bouwkamp constant construction.",
+      "demoArgs": [220, 3, 1, 0.5, 0, 0, 0]
     },
     {
       "id": "jerobeam_mushroom",
@@ -48,7 +52,8 @@
       "cpp": "jerobeam_mushroom.cpp",
       "wasm": "jerobeam_mushroom.wasm",
       "outputs": ["x", "y"],
-      "description": "A cap-and-stem mushroom cluster shape with independent cap/cluster rotation."
+      "description": "A cap-and-stem mushroom cluster shape with independent cap/cluster rotation.",
+      "demoArgs": [220, 0, 1, 1, 3, 0, 0, 0.6667, 0.5, 0.0625, 0, 0, 0, 1, 0, 0, 0.1]
     },
     {
       "id": "jerobeam_nyquist_shannon",
@@ -58,7 +63,8 @@
       "cpp": "jerobeam_nyquist_shannon.cpp",
       "wasm": "jerobeam_nyquist_shannon.wasm",
       "outputs": ["x", "y"],
-      "description": "A sample-rate/aliasing-aware waveform named for the Nyquist-Shannon sampling theorem."
+      "description": "A sample-rate/aliasing-aware waveform named for the Nyquist-Shannon sampling theorem.",
+      "demoArgs": [440, 48, 20, 0, 0, 5, 0, 0, 0, 0.01, 0, 1, 0, 0]
     },
     {
       "id": "jerobeam_radar",
@@ -68,7 +74,8 @@
       "cpp": "jerobeam_radar.cpp",
       "wasm": "jerobeam_radar.wasm",
       "outputs": ["x", "y"],
-      "description": "A rotating polar scanner-beam sweep folded into Cartesian X/Y motion, with ring-cut and tunnel-inversion stages."
+      "description": "A rotating polar scanner-beam sweep folded into Cartesian X/Y motion, with ring-cut and tunnel-inversion stages.",
+      "demoArgs": [220, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "id": "jerobeam_torus",
@@ -78,7 +85,8 @@
       "cpp": "jerobeam_torus.cpp",
       "wasm": "jerobeam_torus.wasm",
       "outputs": ["x", "y"],
-      "description": "A nested 3-layer spiral rotated in 3D and projected with zDepth, forming a torus-like motion."
+      "description": "A nested 3-layer spiral rotated in 3D and projected with zDepth, forming a torus-like motion.",
+      "demoArgs": [220, 1, 1, 0, 1, 0.5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ]
 }

@@ -1,8 +1,11 @@
-DRAFT -- NOT FINAL. Replace or have reviewed before any sale. (see note at bottom)
+DRAFT -- NOT FINAL. Have this reviewed before any sale. (see note at bottom)
 
 Jerobeam Fenderson WASM Modules -- Commercial Binary License
 
-Copyright (c) 2026 [RIGHTS HOLDER NAME]. All rights reserved.
+Copyright (c) 2026 Elan Hickler. All rights reserved.
+
+Original patch designs by Jerobeam Fenderson, used with his permission
+under a royalty arrangement described below.
 
 This license covers the compiled WebAssembly binaries ("the Software")
 distributed in this package. It does not cover the C++ source code, which
@@ -25,9 +28,21 @@ and is not licensed for redistribution by this agreement.
 4. Attribution. Original patch design by Jerobeam Fenderson. Attribution
    is appreciated but not required for use under this license.
 
+Royalty note (informational, not a term of Licensee's purchase): Jerobeam
+Fenderson has given permission for his patch designs to be used
+commercially in this form, with a 50% royalty on net proceeds going to
+him. That 50% figure is a starting point, not yet a finalized agreement
+-- it's still open to negotiation directly with Jerobeam. Proceeds owed
+to him under this arrangement are being held in reserve pending that
+negotiation, rather than distributed under an unconfirmed split. This
+note does not affect the license grant above; it's disclosed here for
+transparency about how sale proceeds are handled on the Licensor's side.
+
 ---
 DRAFT NOTE: this is a starting point, not a final legal document. Before
 selling anything under this license, have it reviewed (ideally by a
-lawyer) and fill in the rights-holder name, pricing/fee terms, and
-confirm the redistribution boundary in section 2 matches what's actually
-being sold (per-seat? per-product? unlimited?).
+lawyer), confirm the rights-holder name above is correct, and confirm
+the redistribution boundary in section 2 matches what's actually being
+sold (per-seat? per-product? unlimited?). The royalty note describes an
+informal arrangement, not a signed agreement -- get that documented in
+writing with Jerobeam once terms are settled.

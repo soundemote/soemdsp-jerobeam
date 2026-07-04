@@ -1,0 +1,33 @@
+DRAFT -- NOT FINAL. Replace or have reviewed before any sale. (see note at bottom)
+
+Jerobeam Fenderson WASM Modules -- Commercial Binary License
+
+Copyright (c) 2026 [RIGHTS HOLDER NAME]. All rights reserved.
+
+This license covers the compiled WebAssembly binaries ("the Software")
+distributed in this package. It does not cover the C++ source code, which
+remains available separately under the terms stated in this repository
+and is not licensed for redistribution by this agreement.
+
+1. Grant. Subject to payment of the applicable fee, Licensor grants
+   Licensee a non-exclusive, non-transferable, worldwide license to
+   embed and use the Software in Licensee's own applications, products,
+   or services, including commercial and closed-source products.
+
+2. Restrictions. Licensee may not resell, sublicense, or redistribute
+   the Software on a standalone basis (i.e., as a competing DSP module
+   pack). Redistribution as an embedded, non-extractable part of a
+   larger product is permitted.
+
+3. No warranty. The Software is provided "as is," without warranty of
+   any kind, express or implied.
+
+4. Attribution. Original patch design by Jerobeam Fenderson. Attribution
+   is appreciated but not required for use under this license.
+
+---
+DRAFT NOTE: this is a starting point, not a final legal document. Before
+selling anything under this license, have it reviewed (ideally by a
+lawyer) and fill in the rights-holder name, pricing/fee terms, and
+confirm the redistribution boundary in section 2 matches what's actually
+being sold (per-seat? per-product? unlimited?).
